@@ -1,0 +1,6 @@
+x1 = int(raw_input("x1:"))
+x2 = int(raw_input("x2:"))
+x3 = int(raw_input("x3:"))
+x4 = int(raw_input("x4:"))
+x5 = int(raw_input("x5:"))
+print("Avg is "+str((x1+x2+x3+x4+x5)/5))
